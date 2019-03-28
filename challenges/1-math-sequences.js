@@ -1,4 +1,5 @@
 function ArithGeom(arr) {
+  // data structure
   let arith = new Set();
   let geo = new Set();
 
